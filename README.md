@@ -17,7 +17,7 @@ This project is a frontend clone of the Myntra website, created using HTML and C
 ## How to Use
 
 1. Clone the repository to your local machine:
-   ```git clone https://github.com/vaibhavharane2001/Myntra-website-clone.git
+   ''git clone https://github.com/vaibhavharane2001/Myntra-website-clone.git''
 
 myntra-clone/
 │
