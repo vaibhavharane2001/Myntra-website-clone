@@ -14,6 +14,10 @@ This project is a frontend clone of the Myntra website, created using HTML and C
 - **HTML5**: Provides the structure of the web page.
 - **CSS3**: Handles the styling, layout, and responsiveness of the web page.
 
+## Screenshot
+
+![Screenshot (139)](https://github.com/user-attachments/assets/47952d06-24f2-4963-83f7-07e3c0f3ef4b)
+
 ## How to Use
 
 1. Clone the repository to your local machine:
